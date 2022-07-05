@@ -1,4 +1,4 @@
-<h1 align="center">: 👋 Welcome to my profile ! </h1>
+<h1 align="center"> 👋 Welcome to my profile ! </h1>
 
 <div align="center">
   <img width="800px" src="https://github.com/ProjetosNicolasGarcia/gifprofile/blob/main/gif%20profile.gif">
