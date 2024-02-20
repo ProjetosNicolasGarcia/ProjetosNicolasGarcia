@@ -1,5 +1,6 @@
-<h1 align="center"> 👋 Welcome to my profile ! </h1>
+<h1 align="center"> 👋 I'm Nicolas, welcome to my profile ! </h1>
 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilverio&layout=compact&langs_count=7&theme=dark"/>
 
   <p align="center">
   <a href="https://skillicons.dev">
