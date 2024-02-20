@@ -1,16 +1,5 @@
 <h1 align="center"> 👋 Welcome to my profile ! </h1>
 
-<div align="center">
-  <img width="800px" src="https://github.com/ProjetosNicolasGarcia/gifprofile/blob/main/gif%20profile.gif">
-</div>
-
-
-   
-
-
-  
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   <p align="center">
   <a href="https://skillicons.dev">
