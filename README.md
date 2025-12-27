@@ -12,7 +12,7 @@
 </div>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,alpine,laravel,liveware" />
+    <img src="https://skillicons.dev/icons?i=tailwind,alpine.js,laravel,php" />
   </a>
 </p>
   
