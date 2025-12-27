@@ -13,7 +13,7 @@
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,alpinejs,laravel,php,laragon" />
+    <img src="https://skillicons.dev/icons?i=tailwind,alpinejs,laravel,php,mysql" />
   </a>
 </p>
   
