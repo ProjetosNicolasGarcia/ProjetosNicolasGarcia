@@ -10,9 +10,10 @@
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilverio&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,alpinejs,laravel,php" />
+    <img src="https://skillicons.dev/icons?i=tailwind,alpinejs,laravel,php,laragon" />
   </a>
 </p>
   
