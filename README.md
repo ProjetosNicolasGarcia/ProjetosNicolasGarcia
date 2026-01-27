@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetosNicolasGarcia&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
 </div>
 
-### 🖥️ Tech Stack
+
 
 **Backend**
 <p align="left">
